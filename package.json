@@ -2,7 +2,7 @@
   "author": "Lorenzo Aiello",
   "name": "statsd-generic-http-backend",
   "description": "A StatsD backend for a generic HTTP endpoint",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/lorenzoaiello/statsd-generic-http-backend",
   "repository": {
     "type": "git",
