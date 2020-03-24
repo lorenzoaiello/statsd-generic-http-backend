@@ -1,0 +1,22 @@
+{
+  "author": "Lorenzo Aiello",
+  "name": "statsd-generic-http-backend",
+  "description": "A StatsD backend for a generic HTTP endpoint",
+  "version": "0.1.0",
+  "homepage": "https://github.com/lorenzoaiello/statsd-generic-http-backend",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lorenzoaiello/statsd-generic-http-backend.git"
+  },
+  "keywords": [
+    "http",
+    "metrics",
+    "statsd"
+  ],
+  "engines": {
+    "node": ">=0.8"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "lib/http.js"
+}
